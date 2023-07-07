@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Restorent_programmer_akshay/static/css/main.5c023a01.css",
+    "main.js": "/Restorent_programmer_akshay/static/js/main.8ea8188f.js",
+    "static/js/787.bad10299.chunk.js": "/Restorent_programmer_akshay/static/js/787.bad10299.chunk.js",
+    "index.html": "/Restorent_programmer_akshay/index.html",
+    "main.5c023a01.css.map": "/Restorent_programmer_akshay/static/css/main.5c023a01.css.map",
+    "main.8ea8188f.js.map": "/Restorent_programmer_akshay/static/js/main.8ea8188f.js.map",
+    "787.bad10299.chunk.js.map": "/Restorent_programmer_akshay/static/js/787.bad10299.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c023a01.css",
+    "static/js/main.8ea8188f.js"
+  ]
+}
